@@ -1,7 +1,12 @@
-var edad = 22
 
-let nombre = "Tomas Ricaurte"
-let variable = [23, "ocho", 19]
-let number = 20
+let miEdad
+miEdad = 22
 
-const constante = true
+let miNombre
+miNombre = "Tomas"
+
+console.log(miNombre.length)
+
+miEdad = 22/2 + 5*3
+
+console.log(miEdad)
